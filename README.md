@@ -16,6 +16,10 @@ Este projeto é a continuação do **Desafio Parte 2 do Programa ONE (Oracle Nex
 
 Com os padrões de evasão identificados na Fase 1, a **Telecom X** avança para a etapa de inteligência preditiva. O objetivo é desenvolver um pipeline de Machine Learning capaz de classificar clientes em risco de cancelamento, permitindo ações proativas de retenção antes que a evasão aconteça.
 
+> 📂 Os dados utilizados neste projeto foram previamente tratados na Fase 1, onde foi realizado 
+> o processo completo de ETL — extração, limpeza e padronização. 
+> [Acesse o notebook da Fase 1 aqui.](https://github.com/taniamara13/ONE-TelecomX-Challenge-Churn-Analysis/blob/main/TelecomX_T%C3%A2nia.ipynb)
+
 ## 🛠️ 2. Pipeline de Machine Learning
 
 O projeto seguiu as etapas clássicas de um pipeline de ML:
