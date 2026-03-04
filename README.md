@@ -66,7 +66,7 @@ Com base nos coeficientes da Regressão Logística:
 
 ## 🚀 6. Como Executar
 ```bash
-git clone https://github.com/taniamara13/Telecom-X-2---Predi-o-de-Churn.git
+https://github.com/taniamara13/Telecom-X-2---Predi-o-de-Churn.git
 ```
 
 1. Abra o notebook `Telecom_X_2_Tania.ipynb` no Google Colab ou Jupyter
